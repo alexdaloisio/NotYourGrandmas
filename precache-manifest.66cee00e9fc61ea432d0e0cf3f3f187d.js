@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c797e5c17d14aa262929cb1f3d677627",
+    "revision": "f49d62fbac312559f8ebc2ef3b5592a2",
     "url": "/NotYourGrandmas/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NotYourGrandmas/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "7e0f3e76de021affaee6",
-    "url": "/NotYourGrandmas/static/css/main.7293a4d8.chunk.css"
+    "revision": "730d503d3a159a715ca2",
+    "url": "/NotYourGrandmas/static/css/main.ea28c119.chunk.css"
   },
   {
     "revision": "dd4fabd0185be82b5480",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NotYourGrandmas/static/js/2.161e66e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e0f3e76de021affaee6",
-    "url": "/NotYourGrandmas/static/js/main.de761718.chunk.js"
+    "revision": "730d503d3a159a715ca2",
+    "url": "/NotYourGrandmas/static/js/main.bd626032.chunk.js"
   },
   {
     "revision": "db8bffbfcf3fa457401d",
