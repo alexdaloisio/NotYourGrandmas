@@ -7,4 +7,5 @@ while the other player wins by either winning, or making the other person win (s
 This isn't your grandma's tic tac toe!
 
 ## Useage
-This game is playable online through github pages
+This game is playable online through github pages:
+https://alexdaloisio.github.io/NotYourGrandmas/
